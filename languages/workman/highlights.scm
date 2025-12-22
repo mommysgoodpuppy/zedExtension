@@ -1,0 +1,10 @@
+(comment) @comment
+(string) @string
+(char) @string
+(number) @number
+(boolean) @boolean
+(keyword) @keyword
+(constructor) @constructor
+(identifier) @variable
+(operator) @operator
+(symbol) @punctuation.delimiter

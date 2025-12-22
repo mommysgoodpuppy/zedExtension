@@ -1,0 +1,4 @@
+name = "Workman"
+grammar = "workman"
+path_suffixes = ["wm"]
+line_comments = ["-- "]
