@@ -1,0 +1,3 @@
+[submodule "tree-sitter-workman"]
+	path = tree-sitter-workman
+	url = https://github.com/mommysgoodpuppy/tree-sitter-workman
