@@ -7,7 +7,7 @@ description = "My cool extension"
 repository = "https://github.com/your-name/my-zed-extension"
 
 [grammars.workman]
-repository = "file:///c:/GIT/zedExtension/tree-sitter-workman"
+repository = "https://github.com/mommysgoodpuppy/tree-sitter-workman"
 rev = "a2ab886aba637457fa87ebd4c51c69316c3c437a"
 
 [language_servers.workman-lsp]
